@@ -1,0 +1,10 @@
+schema_version = "1.0.0"
+id = "dk_toolbox"
+name = "DK Tools"
+version = "0.1.0"
+tagline = "My custom-built tools for Blender"
+maintainer = "Dave Kujawski"
+type = "add-on"
+tags = ["Mesh"]
+blender_version_min = "4.2.0"
+license = ["MIT"]
